@@ -1,0 +1,13 @@
+C:\Users\Usuário\source\repos\SolucaoLed\ProjetoLed\bin\Debug\ProjetoLed.exe.config
+C:\Users\Usuário\source\repos\SolucaoLed\ProjetoLed\bin\Debug\ProjetoLed.exe
+C:\Users\Usuário\source\repos\SolucaoLed\ProjetoLed\bin\Debug\ProjetoLed.pdb
+C:\Users\Usuário\source\repos\SolucaoLed\ProjetoLed\bin\Debug\BqBusNet.dll
+C:\Users\Usuário\source\repos\SolucaoLed\ProjetoLed\bin\Debug\BqBusNet.pdb
+C:\Users\Usuário\source\repos\SolucaoLed\ProjetoLed\obj\Debug\ProjetoLed.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\SolucaoLed\ProjetoLed\obj\Debug\ProjetoLed.Form1.resources
+C:\Users\Usuário\source\repos\SolucaoLed\ProjetoLed\obj\Debug\ProjetoLed.Properties.Resources.resources
+C:\Users\Usuário\source\repos\SolucaoLed\ProjetoLed\obj\Debug\ProjetoLed.csproj.GenerateResource.cache
+C:\Users\Usuário\source\repos\SolucaoLed\ProjetoLed\obj\Debug\ProjetoLed.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\SolucaoLed\ProjetoLed\obj\Debug\ProjetoLed.csproj.Up2Date
+C:\Users\Usuário\source\repos\SolucaoLed\ProjetoLed\obj\Debug\ProjetoLed.exe
+C:\Users\Usuário\source\repos\SolucaoLed\ProjetoLed\obj\Debug\ProjetoLed.pdb
